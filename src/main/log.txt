@@ -1,3 +1,9 @@
+9329e71  Task 2.4
+4213c22  Task 2.3
+bd6b3a4  Task 2.2
+ad82016  Task 2.1
+08f80b1  Task 1.2
+84100f4  Task 1.1
 ca574e4 Task2.4
 1e4e4d4 Task2.3
 f283fe9 Task2.2
